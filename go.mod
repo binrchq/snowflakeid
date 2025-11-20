@@ -1,3 +1,3 @@
-module github.com/binrchq/snowflakeid
+module binrc.com/pkg/snowflakeid
 
 go 1.19

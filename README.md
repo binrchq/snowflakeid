@@ -42,7 +42,7 @@ A high-performance distributed ID generator based on Twitter's Snowflake algorit
 ## Installation
 
 ```bash
-go get github.com/binrclab/snowflakeid
+go get binrc.com/pkg/snowflakeid
 ```
 
 ## Quick Start
@@ -54,7 +54,7 @@ package main
 
 import (
     "fmt"
-    "github.com/binrclab/snowflakeid"
+    "binrc.com/pkg/snowflakeid"
 )
 
 func main() {
